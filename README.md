@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Legend Leo</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Android+ROM+%26+Kernel+Developer;Linux+Customization+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Android+ROM+%26+Kernel+Developer;Linux+Customization+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 
